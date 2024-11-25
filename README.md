@@ -50,4 +50,3 @@ The **CIFAR-10** dataset was used for training and testing. It consists of:
 
 ---
 
-## Project Structure
